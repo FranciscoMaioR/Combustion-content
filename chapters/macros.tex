@@ -1,0 +1,46 @@
+% ----- Shared macros for the AE4262 Combustion guide -----
+% Lightweight, dependency-free chemistry formula typesetting.
+% Use \ch{CO_2}, \ch{H_2O}, \ch{NO_x}; reactions go in math mode with
+% \rightarrow (irreversible) or \rightleftharpoons (equilibrium).
+\newcommand{\ch}[1]{\ensuremath{\mathrm{#1}}}
+
+% Calculus / operators
+\newcommand{\dd}{\mathrm{d}}
+\newcommand{\pder}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\tder}[2]{\frac{\dd #1}{\dd #2}}
+\newcommand{\DDt}[1]{\frac{\mathrm{D} #1}{\mathrm{D} t}}
+\newcommand{\avg}[1]{\overline{#1}}
+\newcommand{\favg}[1]{\widetilde{#1}}
+\newcommand{\fluc}[1]{#1^{\prime}}
+\newcommand{\ffluc}[1]{#1^{\prime\prime}}
+
+% Vectors / tensors
+\newcommand{\vv}[1]{\boldsymbol{#1}}
+\newcommand{\grad}{\boldsymbol{\nabla}}
+\newcommand{\divv}{\grad\!\cdot\!}
+
+% Combustion quantities
+\newcommand{\sLz}{s_L^{0}}
+\newcommand{\Tad}{T_{\mathrm{ad}}}
+\newcommand{\Zst}{Z_{\mathrm{st}}}
+\newcommand{\Lewis}{\mathrm{Le}}
+\newcommand{\Damk}{\mathrm{Da}}
+\newcommand{\Karl}{\mathrm{Ka}}
+
+% Colours (defined before the callout box that uses them)
+\definecolor{istblue}{RGB}{3,171,230}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+
+% "Key idea" call-out environment
+\usepackage{mdframed}
+\newmdenv[
+  linecolor=istblue,
+  linewidth=0.8pt,
+  backgroundcolor=black!2,
+  innertopmargin=6pt,
+  innerbottommargin=6pt,
+  skipabove=8pt,
+  skipbelow=8pt,
+  roundcorner=3pt
+]{keybox}
+\newcommand{\keyhead}[1]{\textbf{\textcolor{istblue}{#1}}\par\vspace{2pt}}
