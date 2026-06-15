@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.6.9)  15 JUN 2026 20:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.6.9)  15 JUN 2026 21:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,7 +1002,7 @@ Package tocbasic Info: babel extension for `nls' omitted
 \@nomenclaturefile=\write4
 \openout4 = `main.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 82.
+Package nomencl Info: Writing nomenclature file main.nlo on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -1144,24 +1144,24 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 )) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1228,7 +1228,7 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package hyperref Info: Link coloring ON on input line 109.
+Package hyperref Info: Link coloring ON on input line 68.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1240,38 +1240,388 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count359
 )
-LaTeX Info: Redefining \ref on input line 109.
-LaTeX Info: Redefining \pageref on input line 109.
-LaTeX Info: Redefining \nameref on input line 109.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
+
+(./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-
-(./header.tex
-<logo full.png, id=7, 501.875pt x 165.61874pt>
+ (./header.tex
+<logo full.png, id=477, 501.875pt x 165.61874pt>
 File: logo full.png Graphic file (type png)
 <use logo full.png>
 Package pdftex.def Info: logo full.png  used on input line 16.
 (pdftex.def)             Requested size: 250.93687pt x 82.80916pt.
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo full.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo full.png>] (./main.
+toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+] [2] [3])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1
 
-] (./chapters/nomenclature.tex
-! Undefined control sequence.
-l.48 \nome
-           
+[4] (./chapters/nomenclature.tex) (./main.nls [5
+
+]) [6]
+(./chapters/00-preface.tex) (./chapters/01-introduction.texpdfTeX warning (ext4
+): destination with the same identifier (name{page.1}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Combustion in Propulsion and Power, and Why It Is Hard}\label{c...
+[1
+
+]
+Chapter 1.
+[2
+
+] [3]
+<images//fig_flame_classification.png, id=733, 2677.00125pt x 1505.625pt>
+File: images//fig_flame_classification.png Graphic file (type png)
+<use images//fig_flame_classification.png>
+Package pdftex.def Info: images//fig_flame_classification.png  used on input li
+ne 42.
+(pdftex.def)             Requested size: 368.40585pt x 207.20212pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./images//fig_flame_classification.png (PNG copy)>])
+(./chapters/02-thermodynamics.tex [5] [6]
+Chapter 2.
+[7
+
+]
+<images//fig_heat_capacity.png, id=797, 2659.9375pt x 1505.625pt>
+File: images//fig_heat_capacity.png Graphic file (type png)
+<use images//fig_heat_capacity.png>
+Package pdftex.def Info: images//fig_heat_capacity.png  used on input line 19.
+(pdftex.def)             Requested size: 292.83357pt x 165.73413pt.
+ [8 <./images//fig_heat_capacity.png (PNG copy)>]
+<images//fig_tad_phi.png, id=830, 2677.00125pt x 1505.625pt>
+File: images//fig_tad_phi.png Graphic file (type png)
+<use images//fig_tad_phi.png>
+Package pdftex.def Info: images//fig_tad_phi.png  used on input line 53.
+(pdftex.def)             Requested size: 283.39244pt x 159.37035pt.
+ [9 <./images//fig_tad_phi.png (PNG copy)>] [10]) (./chapters/03-kinetics.tex [
+11]
+Chapter 3.
+[12
+
+] [13]
+<images//fig_h2o2_flux.png, id=934, 2629.825pt x 1505.625pt>
+File: images//fig_h2o2_flux.png Graphic file (type png)
+<use images//fig_h2o2_flux.png>
+Package pdftex.def Info: images//fig_h2o2_flux.png  used on input line 52.
+(pdftex.def)             Requested size: 273.9441pt x 156.82024pt.
+ [14 <./images//fig_h2o2_flux.png (PNG copy)>])
+(./chapters/04-governing-equations.tex
+Overfull \hbox (0.52646pt too wide) in paragraph at lines 74--1
+[]\T1/cmr/m/n/10.95 Detailed mech-a-nisms are built through a long work-flow co
+m-bin-ing quantum-chemistry and transition-
+ []
+
+[15]
+Chapter 4.
+[16
+
+] [17]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\not' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 74.
+
+[18]) (./chapters/05-laminar-premixed.tex [19]
+Chapter 5.
+<images//fig_premixed_structure.png, id=1072, 2637.855pt x 1505.625pt>
+File: images//fig_premixed_structure.png Graphic file (type png)
+<use images//fig_premixed_structure.png>
+Package pdftex.def Info: images//fig_premixed_structure.png  used on input line
+ 11.
+(pdftex.def)             Requested size: 283.39244pt x 161.73666pt.
+[20
+
+ <./images//fig_premixed_structure.png (PNG copy)>]
+Overfull \hbox (6.07771pt too wide) in paragraph at lines 26--28
+\T1/cmr/m/n/10.95 the burnt-minus-unburnt tem-per-a-ture dif-fer-ence di-vided 
+by the steep-est gra-di-ent through the front [[][]18[][],
+ []
+
+
+Overfull \hbox (15.6125pt too wide) in paragraph at lines 26--28
+\T1/cmr/m/n/10.95 by an $\OML/cmm/m/it/10.95 O\OT1/cmr/m/n/10.95 (1)$ \T1/cmr/m
+/n/10.95 fac-tor and are con-sis-tent on di-men-sional grounds, $\OT1/cmr/m/n/1
+0.95 [[]][] \OMS/cmsy/m/n/10.95 ^^X \OT1/cmr/m/n/10.95 [[]]\OML/cmm/m/it/10.95 
+=\OT1/cmr/m/n/10.95 [[]]$ \T1/cmr/m/n/10.95 [[][]23[][]]. 
+ []
+
+[21]
+<images//fig_sL_phi.png, id=1119, 2609.75pt x 1505.625pt>
+File: images//fig_sL_phi.png Graphic file (type png)
+<use images//fig_sL_phi.png>
+Package pdftex.def Info: images//fig_sL_phi.png  used on input line 62.
+(pdftex.def)             Requested size: 283.39244pt x 163.48268pt.
+ [22]
+<images//fig_bunsen.png, id=1139, 2432.08624pt x 1366.10374pt>
+File: images//fig_bunsen.png Graphic file (type png)
+<use images//fig_bunsen.png>
+Package pdftex.def Info: images//fig_bunsen.png  used on input line 86.
+(pdftex.def)             Requested size: 259.7752pt x 145.91525pt.
+ [23 <./images//fig_sL_phi.png (PNG copy)>])
+(./chapters/06-laminar-nonpremixed.tex [24 <./images//fig_bunsen.png (PNG copy)
+>]
+Chapter 6.
+[25
+
+]
+<images//fig_mixfrac.png, id=1207, 2675.9975pt x 1505.625pt>
+File: images//fig_mixfrac.png Graphic file (type png)
+<use images//fig_mixfrac.png>
+Package pdftex.def Info: images//fig_mixfrac.png  used on input line 43.
+(pdftex.def)             Requested size: 283.39244pt x 159.43927pt.
+ [26] [27 <./images//fig_mixfrac.png (PNG copy)>])
+(./chapters/07-stretch-instabilities.tex [28]
+Chapter 7.
+[29
+
+]
+<images//fig_stretch_markstein.png, id=1286, 2659.9375pt x 1505.625pt>
+File: images//fig_stretch_markstein.png Graphic file (type png)
+<use images//fig_stretch_markstein.png>
+Package pdftex.def Info: images//fig_stretch_markstein.png  used on input line 
+49.
+(pdftex.def)             Requested size: 283.39244pt x 160.40417pt.
+ [30] [31 <./images//fig_stretch_markstein.png (PNG copy)>])
+(./chapters/08-turbulence.tex [32]
+Chapter 8.
+<images//fig_energy_cascade.png, id=1344, 2677.00125pt x 1505.625pt>
+File: images//fig_energy_cascade.png Graphic file (type png)
+<use images//fig_energy_cascade.png>
+Package pdftex.def Info: images//fig_energy_cascade.png  used on input line 15.
+
+(pdftex.def)             Requested size: 311.73026pt x 175.31427pt.
+[33
+
+] [34 <./images//fig_energy_cascade.png (PNG copy)>]
+Overfull \hbox (13.52763pt too wide) in paragraph at lines 56--56
+[]\T1/cmr/bx/n/14.4 Comparing flame and tur-bu-lence scales: Damköh-ler and Kar
+lovitz
+ []
+
+[35]
+<images//fig_borghi.png, id=1393, 2677.00125pt x 1505.625pt>
+File: images//fig_borghi.png Graphic file (type png)
+<use images//fig_borghi.png>
+Package pdftex.def Info: images//fig_borghi.png  used on input line 79.
+(pdftex.def)             Requested size: 311.73026pt x 175.31427pt.
+) (./chapters/09-turbulent-combustion.tex [36 <./images//fig_borghi.png (PNG co
+py)>]
+Chapter 9.
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 22.
+
+[37
+
+] [38]
+Overfull \hbox (2.29109pt too wide) in paragraph at lines 58--59
+\T1/cmr/m/n/10.95 non-premixed, so flamelet mod-els are com-bined into a \T1/cm
+r/bx/n/10.95 Flamelet Gen-er-ated Man-i-fold \T1/cmr/m/n/10.95 parametrised
+ []
+
+[39]) (./chapters/10-diagnostics.tex [40]
+Chapter 10.
+[41
+
+] [42] [43]
+Overfull \hbox (2.7694pt too wide) in paragraph at lines 54--55
+ []\T1/cmr/bx/n/10.95 Laser-induced flu-o-res-cence (LIF).[] \T1/cmr/m/n/10.95 
+A tun-able laser is tuned to an al-lowed electronic--vibrational--
+ []
+
+[44]) (./chapters/11-emissions.tex [45]
+Chapter 11.
+[46
+
+]
+<images//fig_soot_overview.png, id=1630, 2655.9225pt x 1505.625pt>
+File: images//fig_soot_overview.png Graphic file (type png)
+<use images//fig_soot_overview.png>
+Package pdftex.def Info: images//fig_soot_overview.png  used on input line 35.
+(pdftex.def)             Requested size: 368.40585pt x 208.83327pt.
+
+Overfull \hbox (6.31975pt too wide) in paragraph at lines 42--43
+\T1/cmr/m/n/10.95 Soot emis-sions are gov-erned by tem-per-a-ture, equiv-a-lenc
+e ra-tio, pres-sure, fuel type, atom-i-sa-tion/mixing
+ []
+
+[47]
+Overfull \hbox (21.7616pt too wide) in paragraph at lines 52--53
+$[]$ \T1/cmr/m/n/10.95 for-ma-tion is a \T1/cmr/m/it/10.95 non-equilibrium \T1/
+cmr/m/n/10.95 pro-cess whose rate is set by Ar-rhe-nius ki-net-ics, $\OML/cmm/m
+/it/10.95 k \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 A []\OT1/cmr/m/n/10.95 (\O
+MS/cmsy/m/n/10.95 ^^@\OML/cmm/m/it/10.95 E[]=R[]T\OT1/cmr/m/n/10.95 )$\T1/cmr/m
+/n/10.95 ,
+ []
+
+[48 <./images//fig_soot_overview.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 67.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 67.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 67.
+
+<images//fig_caep.png, id=1671, 2677.00125pt x 1505.625pt>
+File: images//fig_caep.png Graphic file (type png)
+<use images//fig_caep.png>
+Package pdftex.def Info: images//fig_caep.png  used on input line 73.
+(pdftex.def)             Requested size: 292.83357pt x 164.67732pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 78.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 78.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 78.
+
+
+Overfull \hbox (0.8625pt too wide) in paragraph at lines 80--81
+\T1/cmr/m/n/10.95 The strate-gies all at-tack the tem-per-a-ture and residence-
+time drivers [[][]13[][]]: \T1/cmr/m/it/10.95 tem-per-a-ture con-trol \T1/cmr/m
+/n/10.95 through
+ []
+
+[49 <./images//fig_caep.png (PNG copy)>])
+(./chapters/12-practical-combustors.tex [50]
+Chapter 12.
+[51
+
+]
+<images//fig_combustor.png, id=1715, 2677.00125pt x 1505.625pt>
+File: images//fig_combustor.png Graphic file (type png)
+<use images//fig_combustor.png>
+Package pdftex.def Info: images//fig_combustor.png  used on input line 15.
+(pdftex.def)             Requested size: 283.39244pt x 159.37035pt.
+ [52 <./images//fig_combustor.png (PNG copy)>] [53]
+<images//fig_lowemission.png, id=1751, 2677.00125pt x 1505.625pt>
+File: images//fig_lowemission.png Graphic file (type png)
+<use images//fig_lowemission.png>
+Package pdftex.def Info: images//fig_lowemission.png  used on input line 60.
+(pdftex.def)             Requested size: 377.85419pt x 212.50911pt.
+)
+(./chapters/13-hydrogen.tex [54 <./images//fig_lowemission.png (PNG copy)>]
+Chapter 13.
+[55
+
+]
+<images//fig_h2_props.png, id=1785, 2609.75pt x 1360.08125pt>
+File: images//fig_h2_props.png Graphic file (type png)
+<use images//fig_h2_props.png>
+Package pdftex.def Info: images//fig_h2_props.png  used on input line 23.
+(pdftex.def)             Requested size: 330.61972pt x 172.29259pt.
+ [56 <./images//fig_h2_props.png (PNG copy)>] [57]
+<images//fig_h2_lownox.png, id=1820, 2659.9375pt x 1505.625pt>
+File: images//fig_h2_lownox.png Graphic file (type png)
+<use images//fig_h2_lownox.png>
+Package pdftex.def Info: images//fig_h2_lownox.png  used on input line 58.
+(pdftex.def)             Requested size: 377.85419pt x 213.86458pt.
+ [58 <./images//fig_h2_lownox.png (PNG copy)>]) (./main.bbl [59]
+Chapter 14.
+[60
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
+6.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [61]) [62]
+(./main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 5AEC53BD261B72835B055F5724A75C6A;29831.
+ ) 
 Here is how much of TeX's memory you used:
- 37344 strings out of 480247
- 850787 string characters out of 5896152
- 1251878 words of memory out of 5000000
- 54647 multiletter control sequences out of 15000+600000
- 473417 words of font info for 34 fonts, out of 8000000 for 9000
+ 38437 strings out of 480247
+ 870160 string characters out of 5896152
+ 1274722 words of memory out of 5000000
+ 55299 multiletter control sequences out of 15000+600000
+ 504920 words of font info for 137 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 110i,11n,117p,727b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,12n,117p,1671b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </sessions/stoic-inspiring-volta/.texlive2021/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/ectt1095.600pk> </sessions/stoic-inspiring-volta/.texlive2021/texmf-var
+/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk> </sessions/stoic-inspiring-volta/.
+texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </sessions/st
+oic-inspiring-volta/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200
+.600pk> </sessions/stoic-inspiring-volta/.texlive2021/texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecti1095.600pk> </sessions/stoic-inspiring-volta/.texlive2021/texm
+f-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </sessions/stoic-inspiring-vo
+lta/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </sessio
+ns/stoic-inspiring-volta/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecr
+m1095.600pk> </sessions/stoic-inspiring-volta/.texlive2021/texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecbx1095.600pk> </sessions/stoic-inspiring-volta/.texlive2021
+/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </sessions/stoic-inspiri
+ng-volta/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </s
+essions/stoic-inspiring-volta/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/e
+c/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
+fb>
+Output written on main.pdf (69 pages, 9586604 bytes).
+PDF statistics:
+ 2523 PDF objects out of 2984 (max. 8388607)
+ 1879 compressed objects within 19 object streams
+ 333 named destinations out of 1000 (max. 500000)
+ 1039 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
